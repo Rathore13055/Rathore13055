@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rathore13055->Everywhere
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me kumargaurav1412005@gmail.com
 - ⚡  NIT-Agartala
